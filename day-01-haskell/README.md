@@ -2,11 +2,11 @@
 
 ## Quickstart
 * Install the Haskell Compiler ([GHC](https://www.haskell.org/ghc/))
-* `$ cat input.txt | ./day_00.hs`
+* `$ cat input.txt | ./day_01.hs`
 
 ## Results
 ```console
-$ cat input.txt | ./day_00.hs
+$ cat input.txt | ./day_01.hs
 Part 1: 1581
 Part 2: 1618
 ```
